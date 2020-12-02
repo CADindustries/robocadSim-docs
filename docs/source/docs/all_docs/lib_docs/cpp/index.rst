@@ -40,3 +40,10 @@ Here is some info about how to use robocadSim C++ library in your project. I am 
 .. image:: cpp_lib/sixth_step_cpp.png
    :align: center
    :width: 700
+
+8. Paste here robocadSimLibCpp.lib line -> click **OK**
+
+.. image:: cpp_lib/seventh_step_cpp.png
+   :align: center
+   :width: 600
+
