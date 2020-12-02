@@ -11,9 +11,10 @@ Welcome to the robocadSim documentation page. Here you will find lots of informa
 
 .. toctree::
    :maxdepth: 1
-   :caption: Robot docs
+   :caption: Documentations
    
-   docs/robot_docs/index
+   docs/all_docs/robot_docs/index
+   docs/all_docs/field_docs/index
 
 .. toctree::
    :maxdepth: 1
