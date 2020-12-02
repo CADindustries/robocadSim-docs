@@ -47,3 +47,11 @@ Here is some info about how to use robocadSim C++ library in your project. I am 
    :align: center
    :width: 600
 
+9. Now You can use robocadSim C++ library in Your project!
+
+
+If You can't use some header files:
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+1. Copy **.dll** file in robocadSim release folder (./robocadSim/Lib/cpp/x64/Release)
+2. Paste it to the path: **path_to_your_project/your_project_name/your_project_name/**
