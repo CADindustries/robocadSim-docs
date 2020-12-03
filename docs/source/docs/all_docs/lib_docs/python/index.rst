@@ -16,13 +16,13 @@ First way:
 
 .. image:: python_lib/second_step_py.png
    :align: center
-   :width: 600
+   :width: 800
 
 3. Write **robocadSimPy** in **Search Line** -> select **robocadSimPy** -> click **Install Package**
 
 .. image:: python_lib/third_step_py.png
    :align: center
-   :width: 600
+   :width: 800
 
 4. Now You can use robocadSim Python library in Your project!
 
