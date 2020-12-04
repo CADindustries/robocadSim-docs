@@ -1,9 +1,7 @@
-RE21mini
+Functions for RE21mini
 ======================================
-
-Everything about RE21mini
 
 .. toctree::
    :maxdepth: 1
-
-   funcs/funcs
+   
+   docs/ReadButtons/index
