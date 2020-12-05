@@ -10,3 +10,7 @@ Functions for RE21mini
    docs/ReadCameraBytes/index
    docs/ReadCameraBytesVoid/index
    docs/ReadCameraVoid/index
+   docs/ReadEncs/index
+   docs/ReadEncsVoid/index
+   docs/ReadSensors/index
+   docs/ReadSensorsVoid/index
