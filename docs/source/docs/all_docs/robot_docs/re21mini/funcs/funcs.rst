@@ -14,3 +14,9 @@ Functions for RE21mini
    docs/ReadEncsVoid/index
    docs/ReadSensors/index
    docs/ReadSensorsVoid/index
+   docs/WriteMotors/index
+   docs/WriteMotorsVoid/index
+   docs/WriteOMS/index
+   docs/WriteOMSVoid/index
+   docs/WriteReset/index
+   docs/WriteResetVoid/index
