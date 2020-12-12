@@ -17,7 +17,7 @@ TransfunctionCoda function is used to rearrange input value. Created by subsyste
 
         **Output:**
 
-        *float* remade input
+        *float* remaded input
 
         **Example:**
 
@@ -47,7 +47,7 @@ TransfunctionCoda function is used to rearrange input value. Created by subsyste
 
         **Output:**
 
-        *float* remade input
+        *float* remaded input
 
         **Example:**
 
@@ -81,7 +81,7 @@ TransfunctionCoda function is used to rearrange input value. Created by subsyste
 
         **Output:**
 
-        *float* remade input
+        *float* remaded input
 
         **Example:**
 
