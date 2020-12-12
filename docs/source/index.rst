@@ -20,6 +20,12 @@ Welcome to the robocadSim documentation page. Here you will find lots of informa
 
 .. toctree::
    :maxdepth: 1
+   :caption: Sponsorships
+   
+   docs/sponsorships/index
+
+.. toctree::
+   :maxdepth: 1
    :caption: Need for help?
    
    docs/help/help
