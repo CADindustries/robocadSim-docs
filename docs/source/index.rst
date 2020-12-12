@@ -17,6 +17,7 @@ Welcome to the robocadSim documentation page. Here you will find lots of informa
    docs/all_docs/field_docs/index
    docs/all_docs/funcad_docs/index
    docs/all_docs/lib_docs/index
+   docs/all_docs/robocadsim_docs/index
 
 .. toctree::
    :maxdepth: 1
