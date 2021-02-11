@@ -1,7 +1,7 @@
 robocadSim
 ======================================
 
-Welcome to the robocadSim documentation page. Here you will find lots of information about how to program robocadSim' virtual robots.
+Welcome to the robocadSim v1.3.4 - v1.3.6.1 documentation page. Here you will find lots of information about how to program robocadSim' virtual robots.
 
 .. toctree::
    :maxdepth: 1
