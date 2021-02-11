@@ -21,7 +21,7 @@ copyright = '2020, crackanddie'
 author = 'crackanddie'
 
 # The full version, including alpha/beta/rc tags
-release = '1.3.5'
+release = '1.3.4'
 
 
 # -- General configuration ---------------------------------------------------
