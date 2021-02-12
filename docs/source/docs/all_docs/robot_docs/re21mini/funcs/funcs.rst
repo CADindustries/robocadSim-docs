@@ -20,3 +20,4 @@ Functions for RE21mini
    docs/WriteOMSVoid/index
    docs/WriteReset/index
    docs/WriteResetVoid/index
+   docs/MotorControl/index
