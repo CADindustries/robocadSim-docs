@@ -6,3 +6,4 @@ Functions for RE21mini
    
    docs/MotorControl/index
    docs/OMSControl/index
+   docs/ResetControl/index
