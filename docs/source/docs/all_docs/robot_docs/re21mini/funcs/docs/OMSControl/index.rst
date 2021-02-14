@@ -1,7 +1,7 @@
 OMS Control
 ================================
 
-Use motor control variables to set speeds to motors.
+Use OMS control variables to set speeds, angles and directions to motors and servo motors.
 
 .. tabs::
 
