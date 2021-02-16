@@ -8,3 +8,4 @@ Functions for RE21mini
    docs/OMSControl/index
    docs/ResetControl/index
    docs/EncoderIndicator/index
+   docs/ButtonIndicator/index
