@@ -34,9 +34,9 @@ Use button indicator variables to get buttons states.
             robot = RobocadSim.RE21mini()
             robot.connect()
             buttons = [0] * 3
-            encoders[0] = robot.button_ems
-            encoders[1] = robot.button_start
-            encoders[2] = robot.button_limit
+            buttons[0] = robot.button_ems
+            buttons[1] = robot.button_start
+            buttons[2] = robot.button_limit
             robot.disconnect()
         
         **Additional info:**
@@ -77,10 +77,10 @@ Use button indicator variables to get buttons states.
                     {
                         RE21mini robot = new RE21mini();
                         robot.Connect();
-                        bool[] encoders = new bool[3];
-                        encoders[0] = robot.buttonEMS;
-                        encoders[1] = robot.buttonStart;
-                        encoders[2] = robot.buttonLimit;
+                        bool[] buttons = new bool[3];
+                        buttons[0] = robot.buttonEMS;
+                        buttons[1] = robot.buttonStart;
+                        buttons[2] = robot.buttonLimit;
                         robot.Disconnect();
                     }
                 }
