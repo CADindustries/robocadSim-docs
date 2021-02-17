@@ -9,3 +9,4 @@ Functions for RE21mini
    docs/ResetControl/index
    docs/EncoderIndicator/index
    docs/ButtonIndicator/index
+   docs/SensorIndicator/index
