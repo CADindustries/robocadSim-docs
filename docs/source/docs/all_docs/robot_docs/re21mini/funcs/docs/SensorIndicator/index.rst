@@ -37,12 +37,12 @@ Use sensor indicator variables to get sensors values.
 
             robot = RobocadSim.RE21mini()
             robot.connect()
-            encoders = [0] * 5
-            encoders[0] = robot.right_us
-            encoders[1] = robot.left_us
-            encoders[2] = robot.right_ir
-            encoders[3] = robot.left_ir
-            encoders[4] = robot.gyro
+            sensors = [0] * 5
+            sensors[0] = robot.right_us
+            sensors[1] = robot.left_us
+            sensors[2] = robot.right_ir
+            sensors[3] = robot.left_ir
+            sensors[4] = robot.gyro
             robot.disconnect()
         
         **Additional info:**
@@ -87,12 +87,12 @@ Use sensor indicator variables to get sensors values.
                     {
                         RE21mini robot = new RE21mini();
                         robot.Connect();
-                        float[] encoders = new float[4];
-                        encoders[0] = robot.rightUS;
-                        encoders[1] = robot.leftUS;
-                        encoders[2] = robot.rightIR;
-                        encoders[3] = robot.leftIR;
-                        encoders[4] = robot.gyro;
+                        float[] sensors = new float[4];
+                        sensors[0] = robot.rightUS;
+                        sensors[1] = robot.leftUS;
+                        sensors[2] = robot.rightIR;
+                        sensors[3] = robot.leftIR;
+                        sensors[4] = robot.gyro;
                         robot.Disconnect();
                     }
                 }
