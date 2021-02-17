@@ -87,7 +87,7 @@ Use sensor indicator variables to get sensors values.
                     {
                         RE21mini robot = new RE21mini();
                         robot.Connect();
-                        float[] sensors = new float[4];
+                        float[] sensors = new float[5];
                         sensors[0] = robot.rightUS;
                         sensors[1] = robot.leftUS;
                         sensors[2] = robot.rightIR;
