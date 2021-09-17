@@ -57,7 +57,7 @@ html_theme = 'sphinx_rtd_theme'
 html_logo = "res/logo_rcs.png"
 
 # URL favicon
-html_favicon = "res/logo_rcs.ico"
+html_favicon = "res/site_logo_rcs.ico"
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
