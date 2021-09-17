@@ -54,10 +54,10 @@ master_doc = 'index'
 html_theme = 'sphinx_rtd_theme'
 
 # Sidebar logo
-html_logo = "res/Logo_4_alpha.png"
+html_logo = "res/logo_rcs.png"
 
 # URL favicon
-html_favicon = "res/site_logo.ico"
+html_favicon = "res/logo_rcs.ico"
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
